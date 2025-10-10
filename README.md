@@ -3,5 +3,5 @@
 
 ### [Задание 1 - Анализ данных](TIPIS_tusk1.ipynb)
 
-### [Задание 2 - Telegram бот для проверки лабораторных работ](https://github.com/IImbryk/ml_2025/tree/main/2_simple_bot)
+### [Задание 2 - Telegram бот для проверки лабораторных работ]([https://github.com/IImbryk/ml_2025/tree/main/2_simple_bot](https://github.com/rabotimnogo/TIPIS_2025/blob/main/doc/comparison.md))
 
