@@ -5,3 +5,6 @@
 
 ### [Задание 2 - Telegram бот для проверки лабораторных работ](https://github.com/rabotimnogo/TIPIS_2025/blob/main/doc/comparison.md)
 
+### [Задание 3 - Dimond Kaggle Competition](https://github.com/rabotimnogo/TIPIS_2025/blob/main/dimond.ipynb)
+
+
