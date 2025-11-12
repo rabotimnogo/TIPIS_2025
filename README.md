@@ -7,4 +7,4 @@
 
 ### [Задание 3 - Dimond Kaggle Competition](https://github.com/rabotimnogo/TIPIS_2025/blob/main/dimond.ipynb)
 
-
+### [Задание 4](https://github.com/rabotimnogo/TIPIS_2025/blob/main/Lab4.ipynb)
